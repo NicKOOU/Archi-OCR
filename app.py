@@ -17,6 +17,3 @@ def myOCR():
     output = OCR('plan.jpg')
     
     return render_template('OCR.html', output=output)
-
-if __name__ == '__main__':
-    app.run(debug=True)
