@@ -3,3 +3,4 @@ numpy==1.21.6
 pytesseract==0.3.10
 keras_ocr==0.9.2
 flask==2.2.5
+tensorflow==2.11.0
